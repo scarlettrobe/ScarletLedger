@@ -58,6 +58,7 @@ The user can then input a number to select what operation they would like to per
 1. Implement data persistence so that transactions aren't lost when the program ends.
 2. Develop a graphical user interface for a more user-friendly experience.
 3. Provide more complex financial insights, perhaps integrating with a financial API to provide investment suggestions.
+4. Create validators for the inputs
 
 ## Contribute
 
