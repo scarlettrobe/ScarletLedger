@@ -12,6 +12,11 @@ A simple Java-based personal finance tracker to monitor income and expenses. The
 4. **Calculate Saving**: Calculates savings by finding the difference between total income and total expenses.
 5. **Financial Insights**: Provides simple insights like average monthly expenses.
 
+## Demo Photos
+
+![Alt text](<Screenshot 2023-06-27 125421.png>)
+![Alt text](<Screenshot 2023-06-27 125624.png>)
+
 ## Classes
 
 - `Transaction`: Represents a transaction with properties such as `amount`, `date`, `type` (income or expense), and `description`.
@@ -55,4 +60,3 @@ The user can then input a number to select what operation they would like to per
 ## Contribute
 
 Please feel free to fork this repository and submit pull requests. All contributions are welcome!
-
