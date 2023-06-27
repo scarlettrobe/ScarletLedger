@@ -15,6 +15,8 @@ A simple Java-based personal finance tracker to monitor income and expenses. The
 ## Demo Photos
 
 ![Alt text](<Screenshot 2023-06-27 125421.png>)
+
+
 ![Alt text](<Screenshot 2023-06-27 125624.png>)
 
 ## Classes
